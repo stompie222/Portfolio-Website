@@ -18,6 +18,7 @@ This repository contains the source code for my personal portfolio website. It i
 ## Live Demo
 
 You can view the live demo of my portfolio website here: ( still struggling to host it online, any help is appreciated )
+struggling with the photos, I think it is just a technical problem with the files in my documents on my computer, still figuring it out.
 
 ## Features
 
