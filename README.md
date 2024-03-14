@@ -2,7 +2,7 @@
 
 ## Projects
 
-1) Personal Porfolio Web Application - This Web App is my very first personal project. It was designed using HTML, CSS and JavaScript that provides the user with an personal information about myself including files such as my resume.
+1) Personal Porfolio Web Application - This Web App is my very first personal project. It was designed using HTML, CSS and JavaScript that provides the user with an personal information about myself including files such as my resume. Still figuring out in my documents what is wrong because I am struggling to host it on Github Pages - thinking it is something wrong with the way I uploaded my files onto Github.
 
 2) Car Rental Web Application - This Web App contains my second personal project. The website is designed using HTML and CSS to provide users with an interface to explore available cars, make reservations, and learn more about the rental services.
 Here is the link for the website: https://stompie222.github.io/Car-Rental-Website/
